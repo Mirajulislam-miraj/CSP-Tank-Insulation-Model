@@ -18,7 +18,7 @@ The tank's cylindrical side wall and flat top/bottom heads are insulated with a 
 ## Repository Structure
 
 .
-miraj.m                # Main MATLAB/Octave simulation script
+csp.m                # Main MATLAB simulation script
 
 ## Model Overview
 
